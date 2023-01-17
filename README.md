@@ -33,7 +33,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/thesd5x"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="thesd5x" /></a></p><br><br><br>
 
-<h3 align="right">📊 Stats</h3>
+<h3 align="right">📊 Stats + Streaks</h3>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesd5x&show_icons=true&locale=en&layout=compact" margin-right="20" alt="thesd5x" /></p><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thesd5x&show_icons=true&locale=en" alt="thesd5x" /></p>
