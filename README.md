@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif"></h1>
 <h2 align="center">Hi, I'm Jordan 👋🏾</h2>
-<h3 align="center">UX/UI + Graphic Design + Front End Developer</h3>
+<h3 align="center">UX/UI + Graphic Designer + Full Stack Developer</h3>
 <h3 align="center">Where coding & aesthetics meet!</h3>
 <h3 align="center">Enthusiast of All Things Cool!</h3><br><br>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif">
